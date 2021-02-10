@@ -1485,14 +1485,14 @@ header{
 	    z-index: 1;
 	}
 	.signel_team{
-		box-shadow: 5px 9px 60px 0px rgba(85, 128, 255, 0.2); 
+// 		box-shadow: 5px 9px 60px 0px rgba(85, 128, 255, 0.2); 
 		border-radius: 5px;
 		text-align: center;
-		padding: 30px 15px;
+		
 		width: 23.7%;
 		margin-top: 20px;
 		transition: $t_3c;
-		background: $white;
+// 		background: $white;
 		&:hover{
 			margin-top: 0;
 			margin-bottom: 20px;
